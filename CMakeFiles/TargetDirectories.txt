@@ -1,5 +1,0 @@
-/home/students/inf/k/kl439965/pw/kl439965/CMakeFiles/rebuild_cache.dir
-/home/students/inf/k/kl439965/pw/kl439965/CMakeFiles/edit_cache.dir
-/home/students/inf/k/kl439965/pw/kl439965/CMakeFiles/executor.dir
-/home/students/inf/k/kl439965/pw/kl439965/CMakeFiles/utils.dir
-/home/students/inf/k/kl439965/pw/kl439965/CMakeFiles/err.dir
